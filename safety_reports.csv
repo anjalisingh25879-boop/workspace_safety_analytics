@@ -1,0 +1,21 @@
+report_id,month,issue_category,workplace_area,severity,resolution_status,description
+RPT-001,January,Inadequate Lighting,Parking Lot,High,Unresolved,The parking area near the east wing has no functional lights after 7 PM making it unsafe for staff leaving late.
+RPT-002,January,Unsafe Late-Shift Transport,Main Gate,High,Resolved,No authorised transport was arranged for female staff finishing shifts after 9 PM on weekdays.
+RPT-003,February,Inappropriate Behaviour,Office Floor 2,High,Unresolved,A staff member reported repeated unwanted comments about appearance from a colleague during work hours.
+RPT-004,February,Inadequate Lighting,Stairwell B,Medium,Resolved,Stairwell B on the second floor had flickering lights reported on three separate occasions.
+RPT-005,March,Lack of Reporting Awareness,HR Department,Low,Resolved,Several employees were unaware of the internal grievance reporting process or the relevant contact person.
+RPT-006,March,Access Control Concerns,Server Room Corridor,Medium,Unresolved,The access card system near the server room corridor was found to be non-functional for two consecutive days.
+RPT-007,April,Unsafe Late-Shift Transport,Back Entrance,High,Unresolved,Female staff members reported having to walk to a distant bus stop alone after late shifts ended past 10 PM.
+RPT-008,April,Inadequate Lighting,Basement Parking,High,Unresolved,Basement parking had multiple broken lights and no CCTV coverage creating a feeling of insecurity.
+RPT-009,May,Inappropriate Behaviour,Cafeteria,Medium,Resolved,A reported case of uncomfortable staring and following behaviour observed in the cafeteria during lunch breaks.
+RPT-010,May,Access Control Concerns,Reception Area,Low,Resolved,External visitors were seen accessing internal office areas without proper sign-in or escort procedures.
+RPT-011,June,Lack of Reporting Awareness,Operations Floor,Medium,Unresolved,New joiners were not briefed about the Internal Complaints Committee during their induction programme.
+RPT-012,June,Inadequate Lighting,Loading Bay,High,Unresolved,The loading bay area used by warehouse staff has no lighting after dusk posing a safety risk.
+RPT-013,July,Unsafe Late-Shift Transport,Side Gate,Medium,Resolved,The side gate used for late-shift exit had no security guard posted between 11 PM and 6 AM.
+RPT-014,July,Access Control Concerns,IT Lab,Low,Unresolved,The IT lab door lock was reported to be faulty and could be pushed open without a valid access card.
+RPT-015,August,Inappropriate Behaviour,Office Floor 3,High,Unresolved,A formal complaint was raised about persistent unwanted messages sent through the internal chat platform.
+RPT-016,August,Lack of Reporting Awareness,Warehouse Zone,Medium,Resolved,Warehouse staff reported they had never received training on how to raise a safety or harassment concern.
+RPT-017,September,Inadequate Lighting,Emergency Exit Corridor,High,Unresolved,The corridor leading to the emergency exit on floor one has been without working lights for over a week.
+RPT-018,September,Unsafe Late-Shift Transport,North Parking,Medium,Unresolved,No emergency contact number or security escort was available for staff working overnight in the north block.
+RPT-019,October,Access Control Concerns,Finance Department,Medium,Resolved,Unauthorised personnel were observed attempting to enter the finance department on two separate occasions.
+RPT-020,October,Inappropriate Behaviour,Meeting Room 4,High,Unresolved,A staff member reported feeling pressured and intimidated during a one-on-one meeting with a senior colleague.
